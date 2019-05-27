@@ -7,7 +7,7 @@ Tools that I used:
 * GIMP
 * Audacity
 
-![Title Screen](https://github.com/Raccoon-JS/bright_eyes/blob/master/images/title.png)
+![Title Screen](https://github.com/Raccoon-JS/bright_eyes/blob/master/images/title-screen.png)
 
 ### Table of Contents
 * [Project Origin](https://github.com/Raccoon-JS/bright_eyes#project-origin)
