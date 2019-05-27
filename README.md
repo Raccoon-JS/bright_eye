@@ -41,7 +41,7 @@ https://lingojam.com/EnglishtoDolan
 ## Plot
 ![The Toms](https://github.com/Raccoon-JS/bright_eyes/blob/master/images/panel2.png)
 
-So there I came up with the story about four villainous black cats (Tom, Thom, Tommy, Thomas) testing an eyeball of the android named Gi-gae (기게 - machin in Korean). It's for raising a large sum of money for fishing on a deep dark water. They heard that Gigae's left eye cost a fortune, so they try to steal the eyeball but it ppos out of Gi-gae's eyesock and run off quickly.
+So there I came up with the story about four villainous black cats (Tom, Thom, Tommy, Thomas) testing an eyeball of the android named Gi-gae (기게 - "machine" in Korean). It's for raising a large sum of money for fishing on a deep dark water. They heard that Gigae's left eye cost a fortune, so they try to steal the eyeball but it ppos out of Gi-gae's eyesock and run off quickly.
 
 All the eyeball needs is an electricity and some safety from the Toms.
 
@@ -49,7 +49,7 @@ All the eyeball needs is an electricity and some safety from the Toms.
 I thought about the project I could work on in a long-term, and I realized how much this game has potentials and I could at least rework on this one. This would also give me an opportunity to develop my game development skills. And it feels nice to look back and improve the one you felt hopeless to complete. 
 
 ## MIT License
-Copyright (c) 2018-19 Raccoon_JS
+Copyright (c) 2018-19 [Raccoon_JS](https://raccoon-js.itch.io/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
