@@ -4,11 +4,16 @@ Godot game with trashy aesthetic.
 
 ![Title Screen](https://github.com/Raccoon-JS/bright_eyes/blob/master/images/title.png)
 
-### Project Origin
+### Table of Contents
+* [Project Origin](https://github.com/Raccoon-JS/bright_eyes#project-origin)
+* [Plot](https://github.com/Raccoon-JS/bright_eyes#plot)
+* [Why did I revive it?](https://github.com/Raccoon-JS/bright_eyes#why-did-i-revive-it)
+
+## Project Origin
 
 It was originally an entry for ["So Bad It's Good" Jam 2018 on itch.io](https://itch.io/jam/sbigjam2018). But I cancelled it before the jam was over.
 
-The Optional Theme at that time was "Cyberpunk.
+The Optional Theme at that time was "Cyberpunk".
 
 I brainstormed what kind of game I could make out of that theme. I thought about making Super Mario-style platformer game, or a Rage-inducing game, etc..
 
@@ -28,7 +33,7 @@ http://www.color-hex.com/color-palette/61235
 
 https://lingojam.com/EnglishtoDolan
 
-### Plot
+## Plot
 
 ![The Toms](https://github.com/Raccoon-JS/bright_eyes/blob/master/images/panel2.png)
 
@@ -36,6 +41,6 @@ So there I came up with the story about four villainous black cats (Tom, Thom, T
 
 All the eyeball needs is an electricity and some safety from the Toms.
 
-### Why did I revive it?
+## Why did I revive it?
 
 I thought about the project I could work on in a long-term, and I realized how much this game has potentials and I could at least rework on this one. This would also give me an opportunity to develop my game development skills. And it feels nice to look back and improve the one you felt hopeless to complete. 
