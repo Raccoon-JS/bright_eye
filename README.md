@@ -1,4 +1,4 @@
-# Bright Eye(s)
+# Bright Eye
 
 A Cyberpunk parody game with trashy aesthetic. Made with [Godot 3.1.1. game engine](https://godotengine.org/).
 
