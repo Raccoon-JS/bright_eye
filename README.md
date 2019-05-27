@@ -1,2 +1,2 @@
-# bright_eyes
+# Bright Eyes
 Godot game with trashy aesthetic.
