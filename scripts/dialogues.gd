@@ -5,8 +5,8 @@ onready var g = get_parent().get_parent()
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	if g.get_name() == "prologue":
-		var center = 450
-		g.write("BRIGHT EYES", null, Vector2(center,100), Vector2(0.7,0.7))
+		var center = 400
+		g.write("BRIGHT EYES", null, Vector2(450,100), Vector2(0.7,0.7))
 		g.write("black felien corps", null, Vector2(center,320), Vector2(.9,.9))
 		g.write("\"we cach big fishs\"", null, Vector2(center,320), Vector2(.9,.9))
 		g.write("board meatn topic - we rn out uv money 4 cachn big fishs in n deap s.", null, Vector2(center,660), null)
