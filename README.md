@@ -2,6 +2,8 @@
 
 A Cyberpunk parody game with trashy aesthetic. Made with [Godot 3.1.1. game engine](https://godotengine.org/).
 
+![Gal GODOT 3.1.1.](https://github.com/Raccoon-JS/bright_eye/blob/master/images/Gal_Godot_Logo.png)
+
 Tools that I used:
 * Krita
 * GIMP
