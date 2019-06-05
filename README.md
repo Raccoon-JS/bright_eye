@@ -1,5 +1,7 @@
 # Bright Eye
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8I79R)
+
 A Cyberpunk parody game with trashy aesthetic. Made with [Godot 3.1.1. game engine](https://godotengine.org/).
 
 ![Gal GODOT 3.1.1.](https://github.com/Raccoon-JS/bright_eye/blob/master/images/Gal_Godot_Logo.png)
