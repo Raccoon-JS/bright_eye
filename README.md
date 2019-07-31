@@ -1,5 +1,7 @@
 # Bright Eye
 
+**I have made the Gitea alternative repo. This is the Github repo of the game.**
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8I79R)
 
 A Cyberpunk parody game with trashy aesthetic. Made with [Godot 3.1.1. game engine](https://godotengine.org/).
