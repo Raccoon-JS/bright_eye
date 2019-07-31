@@ -4,14 +4,14 @@
 
 A Cyberpunk parody game with trashy aesthetic. Made with [Godot 3.1.1. game engine](https://godotengine.org/).
 
-[![Gal GODOT 3.1.1.](https://try.gitea.io/Raccoon-JS/bright_eye/blob/master/images/Gal_Godot_Logo.png)](https://try.gitea.io/Raccoon-JS/bright_eye/src/branch/master/images/Gal_Godot_Logo.png)
+[![Gal GODOT 3.1.1.](https://github.com/Raccoon-JS/bright_eye/blob/master/images/Gal_Godot_Logo.png)](https://try.gitea.io/Raccoon-JS/bright_eye/src/branch/master/images/Gal_Godot_Logo.png)
 
 Tools that I used:
 * Krita
 * GIMP
 * Audacity
 
-[![Title Screen](https://try.gitea.io/Raccoon-JS/bright_eye/blob/master/images/title-screen.png)](https://try.gitea.io/Raccoon-JS/bright_eye/blob/master/images/title-screen.png)
+[![Title Screen](https://github.com/Raccoon-JS/bright_eye/blob/master/images/title-screen.png)](https://try.gitea.io/Raccoon-JS/bright_eye/blob/master/images/title-screen.png)
 
 ### Table of Contents
 * [Project Origin](https://github.com/Raccoon-JS/bright_eye#project-origin)
@@ -43,7 +43,7 @@ http://www.color-hex.com/color-palette/61235
 https://lingojam.com/EnglishtoDolan
 
 ## Plot
-![The Toms](https://try.gitea.io/Raccoon-JS/bright_eye/blob/master/images/panel2.png)
+![The Toms](https://github.com/Raccoon-JS/bright_eye/blob/master/images/panel2.png)
 
 So there I came up with the story about four villainous black cats (Tom, Thom, Tommy, Thomas) testing an eyeball of the android named Gi-gae (기게 - "machine" in Korean). It's for raising a large sum of money for fishing on a deep dark water. They heard that Gigae's left eye cost a fortune, so they try to steal the eyeball but it ppos out of Gi-gae's eyesock and run off quickly.
 
