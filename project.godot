@@ -20,10 +20,10 @@ _global_script_class_icons={
 
 [application]
 
-config/name="bright eyes"
+config/name="bright eye"
 run/main_scene="res://scenes/menu.tscn"
 config/use_custom_user_dir=true
-config/custom_user_dir_name="Bring Eyes"
+config/custom_user_dir_name="Bright Eye"
 boot_splash/image="res://images/new_godot_boot_smash.png"
 boot_splash/fullsize=false
 boot_splash/bg_color=Color( 0.0392157, 0.741176, 0.776471, 1 )
