@@ -20,7 +20,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="bright eyes"
+config/name="bright eye"
 run/main_scene="res://scenes/menu.tscn"
 config/use_custom_user_dir=true
 config/custom_user_dir_name="Bring Eyes"
