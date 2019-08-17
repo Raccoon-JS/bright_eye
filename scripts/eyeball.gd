@@ -16,6 +16,8 @@ var last_grounded = false
 
 var dead = false
 
+onready var hud = $camera/HUD
+
 func _ready():
 	global.player = self
 	set_physics_process(true)
@@ -95,4 +97,13 @@ func get_cur_time():
 
 func die():
 	dead = true
+	pass
+	
+func _on_detect_area_entered(area):
+	if area.is_in_group("electric"):
+		area.connect("charged",self,"_get_charged")
+	pass # Replace with function body.
+	
+func _get_charged():
+	hud._add_score()
 	pass
