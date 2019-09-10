@@ -10,7 +10,7 @@ A Cyberpunk parody game with trashy aesthetic. Made with [Godot 3.1.1. game engi
 
 Tools that I used:
 * Krita
-* GIMP
+* GNU Image Manipulation Program
 * Audacity
 
 [![Title Screen](https://github.com/Raccoon-JS/bright_eye/blob/master/images/title-screen.png)](https://try.gitea.io/Raccoon-JS/bright_eye/blob/master/images/title-screen.png)
